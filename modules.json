@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "title": "Order display",
+    "category": "Operativa",
+    "tag": "Operativa",
+    "intro": "Digitalni prikaz porudžbina u kuhinji, šanku ili na pomoćnim radnim mestima.\n                Umesto štampanja traka, porudžbine se prikazuju pregledno na monitoru ili tabletu.",
+    "purpose": "Display služi da priprema porudžbina bude jasnija, brža i organizovanija.\n                  Sistem prikazuje nove narudžbine u realnom vremenu, razdvaja ih po tipu,\n                  kuhinji, šanku ili stanici pripreme i omogućava osoblju da menja status porudžbine.",
+    "gains": [
+      "Manje ili potpuno bez štampanih traka",
+      "Manje gužve i manje grešaka u komunikaciji",
+      "Jasniji redosled pripreme",
+      "Bolju preglednost za kuhinju i šank",
+      "Bržu reakciju osoblja"
+    ],
+    "benefits": [
+      {
+        "title": "Ušteda na trakama",
+        "text": "Ako lokal dnevno štampa veliki broj porudžbina, trošak traka i održavanja\n                  štampača postaje stalan. Display taj trošak značajno smanjuje."
+      },
+      {
+        "title": "Može i za šank",
+        "text": "Nije namenjen samo kuhinji — idealan je i za šank, pripremu pića,\n                  desert stanicu ili ekspediciju."
+      },
+      {
+        "title": "Može i ka konobarima",
+        "text": "Tablet ili monitor može biti okrenut ka konobarima kako bi odmah videli\n                  kada je porudžbina spremna za preuzimanje i posluživanje."
+      }
+    ],
+    "example": "U objektu sa velikim prometom kuhinja dobija porudžbine direktno na monitor,\n                šank ima svoj zaseban ekran za pića, a konobari na pomoćnom ekranu vide\n                kada je porudžbina završena. Time se smanjuje dozivanje između sektora,\n                štedi se vreme i smanjuju se zastoji u špicu.",
+    "images": [
+      "./assets/images/4.jpg",
+      "./assets/images/5.jpg",
+      "./assets/images/6.jpg",
+      "./assets/images/5.jpg"
+    ],
+    "videoUrl": "",
+    "icon": "monitor"
+  },
+  {
+    "id": 2,
+    "title": "Kiosk za samoporučivanje",
+    "category": "Samousluga",
+    "tag": "Samousluga",
+    "intro": "Interaktivni kiosk omogućava gostu da sam pregleda ponudu, napravi porudžbinu\n                i izvrši plaćanje bez čekanja na kasi.",
+    "purpose": "Kiosk je namenjen lokalima koji žele brži protok gostiju, manje gužve na kasi\n                  i moderniji način naručivanja. Posebno je koristan u fast food objektima,\n                  food court zonama, pekarama, kioscima i restoranima sa velikim prometom.",
+    "gains": [
+      "Manje gužve na prodajnom mestu",
+      "Brže naručivanje u špicevima",
+      "Mogućnost samostalnog plaćanja",
+      "Veći kapacitet usluge bez dodatnog opterećenja osoblja",
+      "Profesionalan i moderan utisak na gosta"
+    ],
+    "benefits": [
+      {
+        "title": "Brža usluga",
+        "text": "Gosti ne čekaju da dođu na red za porudžbinu ako mogu sami da naruče."
+      },
+      {
+        "title": "Veća prosečna porudžbina",
+        "text": "Na ekranu je lakše ponuditi dodatke, menije, priloge i akcijske kombinacije."
+      },
+      {
+        "title": "Manje pritiska na osoblje",
+        "text": "Tim je rasterećen kod jednostavnih i ponavljajućih porudžbina."
+      }
+    ],
+    "example": "U lokalu sa velikim prometom jedan deo gostiju koristi kiosk za samostalnu porudžbinu,\n                dok osoblje ostaje fokusirano na pripremu, izdavanje i pomoć gostima kojima je potrebna.\n                Rezultat je manji red, brži protok i bolja iskorišćenost tima.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "scan"
+  },
+  {
+    "id": 3,
+    "title": "QR i web poručivanje",
+    "category": "Digitalna prodaja",
+    "tag": "Digitalna prodaja",
+    "intro": "Gost skenira QR kod ili pristupa web meniju, pregleda ponudu, poručuje i \n\t\t\t\tplaća direktno sa svog telefona.",
+    "purpose": "Modul je namenjen objektima koji žele da ubrzaju uslugu za stolom,\n                  smanje čekanje na konobara i omoguće digitalan pregled menija i poručivanje.\n                  Koristan je i za lokale sa velikim prometom, terase, beach barove i objekte\n                  u kojima je brzina usluge posebno važna.",
+    "gains": [
+      "Brže naručivanje za goste",
+      "Manje čekanja i manje zastoja u komunikaciji",
+      "Digitalni meni bez stalnog štampanja",
+      "Mogućnost plaćanja sa telefona",
+      "Moderniji doživljaj za gosta"
+    ],
+    "benefits": [
+      {
+        "title": "Brži obrt stolova",
+        "text": "Kada gost ne čeka dugo da vidi meni ili poruči, ceo tok usluge je efikasniji."
+      },
+      {
+        "title": "Manje štampe",
+        "text": "Digitalni meni olakšava izmene cena, ponude i akcija bez ponovnog štampanja."
+      },
+      {
+        "title": "Bolje iskustvo gosta",
+        "text": "Gost dobija pregledan meni, slike, opcije i jednostavniji način poručivanja."
+      }
+    ],
+    "example": "Na svakom stolu nalazi se QR kod. Gost ga skenira, otvara meni, bira artikle,\n                šalje porudžbinu i odmah plaća. Konobar ima više vremena za uslugu,\n                preporuke i rad sa stolovima kojima je potrebna dodatna pažnja.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "qr"
+  },
+  {
+    "id": 4,
+    "title": "Android poručivanje i naplata",
+    "category": "Mobilnost",
+    "tag": "Mobilnost",
+    "intro": "Konobar prima porudžbinu direktno za stolom preko Android uređaja, a u zavisnosti od modela\n        uređaja može odmah i da odštampa fiskalni račun ili izvrši naplatu karticom na licu mesta.",
+    "purpose": "Ovaj modul je idealan za objekte u kojima je važno da osoblje bude stalno\n          prisutno među gostima, bez vraćanja do stacionarne kase za svaku porudžbinu.\n          Posebno je koristan za bašte, veće restorane, beach barove, bazene i objekte\n          sa većim brojem stolova.",
+    "gains": [
+      "Brže evidentiranje porudžbina",
+      "Manje hodanja do kase i nazad",
+      "Bržu komunikaciju sa kuhinjom i šankom",
+      "Mogućnost naplate na licu mesta",
+      "Mogućnost štampe fiskalnog računa direktno sa uređaja",
+      "3 u 1 rad: poručivanje, fiskal i kartično plaćanje"
+    ],
+    "benefits": [
+      {
+        "title": "Porudžbina odmah ide u sistem",
+        "text": "Nema prepisivanja i dodatnih koraka — gost poruči, porudžbina odmah stiže gde treba."
+      },
+      {
+        "title": "Fiskal sa Android uređaja",
+        "text": "Određeni modeli uređaja imaju integrisani štampač, pa račun može odmah da se odštampa."
+      },
+      {
+        "title": "Naplata karticom na licu mesta",
+        "text": "Pojedini uređaji mogu da se integrišu sa bankom i omoguće trenutno kartično plaćanje."
+      }
+    ],
+    "example": "Konobar prima porudžbinu na terasi preko Android uređaja, kuhinja je vidi odmah,\n        a kada gost traži račun, isti uređaj može da posluži za kompletan proces:\n        unos porudžbine, štampu fiskalnog računa i naplatu karticom. Sve se završava\n        za stolom, bez vraćanja do centralne kase.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "smartphone"
+  },
+  {
+    "id": 5,
+    "title": "Displej za status porudžbine",
+    "category": "Operativa",
+    "tag": "Pregled za goste i osoblje",
+    "intro": "Ekran koji prikazuje status porudžbina i obaveštava kada je porudžbina spremna\n                za preuzimanje ili posluženje.",
+    "purpose": "Namenjen je lokalima sa šalterima, preuzimanjem porudžbina, food court konceptom,\n                  fast food objektima, ali i internim prikazima za osoblje. Pomaže da svi imaju\n                  jasan pregled toka porudžbina.",
+    "gains": [
+      "Manje pitanja gostiju “da li je gotovo”",
+      "Pregledan tok porudžbina",
+      "Manje zadržavanja oko pulta",
+      "Bolju organizaciju izdavanja",
+      "Pregled za goste ili interno za tim"
+    ],
+    "benefits": [
+      {
+        "title": "Bolje iskustvo gosta",
+        "text": "Gost sam prati status i zna kada da priđe po porudžbinu."
+      },
+      {
+        "title": "Manje gužve na izdavanju",
+        "text": "Nema potrebe da osoblje stalno proziva ili odgovara na ista pitanja."
+      },
+      {
+        "title": "Može i interno",
+        "text": "Ekran se može koristiti i kao pomoćni prikaz zaposlenima."
+      }
+    ],
+    "example": "U objektu sa preuzimanjem hrane gost na velikom ekranu prati broj svoje porudžbine.\n                Kada status postane spremno, prilazi pultu. Time se smanjuje gužva i ubrzava izdavanje.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "ticket"
+  },
+  {
+    "id": 6,
+    "title": "Mobilni pregled poslovanja",
+    "category": "Analitika",
+    "tag": "Kontrola poslovanja",
+    "intro": "Pregled ključnih podataka o radu lokala preko telefona, tableta ili računara,\n                bez potrebe da budete fizički prisutni u objektu.",
+    "purpose": "Modul je namenjen vlasnicima, menadžerima i odgovornim licima koja žele brz\n                  i jednostavan uvid u poslovanje, promet, otvorene stolove, izdate račune i\n                  druge važne informacije u svakom trenutku.",
+    "gains": [
+      "Kontrolu poslovanja i kada nije u objektu",
+      "Brži uvid u rad lokacije",
+      "Pregled ključnih pokazatelja sa telefona",
+      "Jednostavnije praćenje više lokacija",
+      "Bržu reakciju kada je potrebno"
+    ],
+    "benefits": [
+      {
+        "title": "Uvid u realnom vremenu",
+        "text": "Važne informacije su dostupne bez poziva i dodatnih provera."
+      },
+      {
+        "title": "Praktično za više lokacija",
+        "text": "Lakše je pratiti rad više objekata iz jednog mesta."
+      },
+      {
+        "title": "Više kontrole",
+        "text": "Vlasnik ili menadžer brže primećuje situacije koje zahtevaju reakciju."
+      }
+    ],
+    "example": "Vlasnik koji nije u lokalu preko telefona proverava promet, otvorene stolove i\n                rad lokacije. Ako primeti odstupanje ili potrebu za intervencijom, može odmah da reaguje.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "chart"
+  },
+  {
+    "id": 7,
+    "title": "Backoffice",
+    "category": "Analitika",
+    "tag": "Administracija i analiza",
+    "intro": "Centralno mesto za robno, finansijsko i operativno upravljanje poslovanjem,\n                pregled izveštaja, zaliha, kalkulacija i dokumentacije.",
+    "purpose": "Backoffice je namenjen firmama koje žele detaljniju kontrolu robe, zaliha,\n                  ulaza, izlaza, kalkulacija, komitenata i izveštaja. Posebno je važan za objekte\n                  sa složenijim poslovanjem, više magacina, više lokacija ili većim obimom robe.",
+    "gains": [
+      "Pregled robnog poslovanja na jednom mestu",
+      "Bolju kontrolu zaliha i kretanja robe",
+      "Izveštaje za analizu poslovanja",
+      "Lakši rad sa kalkulacijama i dokumentima",
+      "Više reda i kontrole u administraciji"
+    ],
+    "benefits": [
+      {
+        "title": "Manje improvizacije",
+        "text": "Procesi postaju jasniji, dokumentovaniji i lakši za praćenje."
+      },
+      {
+        "title": "Preciznija kontrola robe",
+        "text": "Lakše se prati stanje, potrošnja i organizacija nabavke."
+      },
+      {
+        "title": "Bolja osnova za odluke",
+        "text": "Kada su podaci pregledni, lakše je planirati i reagovati."
+      }
+    ],
+    "example": "Menadžment kroz backoffice prati zalihe, ulaze robe, kalkulacije, izveštaje i rad više lokacija.\n                Umesto ručnog skupljanja podataka iz više izvora, sve informacije se nalaze na jednom mestu.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "layers"
+  },
+  {
+    "id": 8,
+    "title": "Provera računa preko QR koda",
+    "category": "Digitalna prodaja",
+    "tag": "Pregled za goste",
+    "intro": "Gost skenira QR kod za svoj sto i u svakom trenutku vidi pregled stavki koje su\n        trenutno evidentirane na računu. Kada se račun naplati i zatvori, QR kod postaje neaktivan.",
+    "purpose": "Modul je namenjen objektima koji žele veću transparentnost prema gostima i manje\n          dodatnih pitanja prema konobaru. Gost može jednostavno da proveri šta je trenutno\n          uneto na sto, bez čekanja da mu neko donese presek računa.",
+    "gains": [
+      "Brži uvid gosta u trenutno stanje računa",
+      "Manje pozivanja konobara zbog provere stavki",
+      "Veću transparentnost i sigurnost za gosta",
+      "Modernije korisničko iskustvo",
+      "Automatsku deaktivaciju QR koda nakon naplate"
+    ],
+    "benefits": [
+      {
+        "title": "Gost ima pregled",
+        "text": "U svakom trenutku može da vidi koje su stavke evidentirane na njegovom stolu."
+      },
+      {
+        "title": "Manje opterećenje za osoblje",
+        "text": "Konobari imaju manje prekida zbog dodatnih provera i pitanja oko računa."
+      },
+      {
+        "title": "QR važi samo dok je račun otvoren",
+        "text": "Nakon naplate i zatvaranja računa, QR kod automatski postaje neaktivan."
+      }
+    ],
+    "example": "Za stolom se nalazi QR kod koji gost može da skenira telefonom. Na ekranu dobija\n        pregled svih trenutno unetih stavki za taj sto. Kada račun bude naplaćen, isti QR\n        više ne daje prikaz i postaje neaktivan za dalje korišćenje.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "receipt"
+  },
+  {
+    "id": 9,
+    "title": "API konektor",
+    "category": "Integracije",
+    "tag": "Integracije",
+    "intro": "Omogućava povezivanje sa Octopos sistemom preko API-ja, kako bi korisnici ili njihovi partneri\n        mogli da preuzimaju podatke i prave sopstvene izveštaje, analitiku i dodatne integracije.",
+    "purpose": "Modul je namenjen firmama koje žele da svoje podatke koriste i van standardnih\n          izveštaja u programu. Pogodan je za povezivanje sa BI alatima, internim sistemima,\n          eksternim platformama i prilagođenim analitičkim rešenjima.",
+    "gains": [
+      "Mogućnost preuzimanja podataka iz sistema",
+      "Izradu sopstvenih izveštaja i analitike",
+      "Povezivanje sa drugim softverima",
+      "Veću fleksibilnost u obradi podataka",
+      "Osnovu za napredne integracije po potrebi"
+    ],
+    "benefits": [
+      {
+        "title": "Podaci po meri korisnika",
+        "text": "Korisnik nije ograničen samo na gotove izveštaje, već može praviti sopstvene prikaze."
+      },
+      {
+        "title": "Povezivanje sa drugim sistemima",
+        "text": "API omogućava lakšu integraciju sa eksternim softverima i analitičkim alatima."
+      },
+      {
+        "title": "Veća kontrola nad analizom",
+        "text": "Podaci se mogu koristiti za interne analize, dashboard-e i poslovno praćenje po želji."
+      }
+    ],
+    "example": "Korisnik želi da prati prodaju, artikle i druge pokazatelje kroz sopstveni BI alat.\n        Putem API konektora preuzima podatke iz sistema i pravi analitiku i izveštaje tačno\n        prema svojim potrebama i načinu rada.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "code"
+  },
+  {
+    "id": 10,
+    "title": "Konekcija sa hotelskim softverom",
+    "category": "Integracije",
+    "tag": "Hotelske integracije",
+    "intro": "Octopos može da se poveže sa hotelskim PMS rešenjima kao što su Protel, Hotel Sync i Prosoft,\n        kako bi se F&B troškovi iz restorana, bara ili drugih prodajnih mesta vezivali direktno za sobu gosta.",
+    "purpose": "Modul je namenjen hotelima i smeštajnim objektima koji žele da objedine hotelsko i\n          ugostiteljsko poslovanje. Prodaja iz restorana, bara ili drugih F&B punktova može\n          odmah da se poveže sa smeštajnom jedinicom i hotelskim sistemom.",
+    "gains": [
+      "Povezivanje F&B prodaje sa hotelskim PMS-om",
+      "Mogućnost knjiženja troška direktno na sobu",
+      "Manje ručnog prenosa podataka",
+      "Brži i jednostavniji rad osoblja",
+      "Bolju usklađenost hotelskog i ugostiteljskog dela poslovanja"
+    ],
+    "benefits": [
+      {
+        "title": "Trošak ide na sobu",
+        "text": "Računi iz restorana ili bara mogu se vezati direktno za gosta i njegovu sobu."
+      },
+      {
+        "title": "Manje ručnih koraka",
+        "text": "Osoblje ne mora dodatno da prenosi ili usklađuje podatke između sistema."
+      },
+      {
+        "title": "Pogodno za hotelski F&B",
+        "text": "Rešenje je korisno za hotele koji imaju restoran, bar, spa ili druge prodajne tačke."
+      }
+    ],
+    "example": "Gost hotela sedi u restoranu i želi da račun prebaci na sobu. Konobar kroz Octopos bira\n        odgovarajuću sobu iz hotelskog PMS-a, a trošak se evidentira u hotelskom sistemu bez\n        dodatnog ručnog unosa.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "hotel"
+  },
+  {
+    "id": 11,
+    "title": "Centralno upravljanje za više lokala",
+    "category": "Analitika",
+    "tag": "Više lokacija",
+    "intro": "Ako firma ima više lokala, poslovanje može da se vodi centralno iz jedne baze.\n        Artikli, komitenti, popusti i drugi zajednički podaci unose se jednom, a zatim\n        se distribuiraju na lokacije kojima su potrebni.",
+    "purpose": "Modul je namenjen lancima, grupacijama i firmama koje upravljaju sa više prodajnih\n          mesta i žele da standardizuju rad. Umesto da se isti podaci održavaju odvojeno na\n          svakoj lokaciji, sve se kontroliše sa jednog centralnog mesta.",
+    "gains": [
+      "Jednokratno kreiranje artikala za više lokala",
+      "Centralno upravljanje komitentima, popustima i šifarnicima",
+      "Ujednačen rad na svim lokacijama",
+      "Zbirne izveštaje na jednom mestu",
+      "Manje duplog unosa i manje administracije"
+    ],
+    "benefits": [
+      {
+        "title": "Unos jednom, primena na više mesta",
+        "text": "Nema potrebe da se isti artikal, komitent ili popust pravi posebno u svakom lokalu."
+      },
+      {
+        "title": "Zbirna prodaja na jednom mestu",
+        "text": "Promet sa svih lokacija se sinhronizuje i može se pratiti centralno."
+      },
+      {
+        "title": "Bolja kontrola sistema",
+        "text": "Standardizacija podataka i pravila rada olakšava upravljanje većim brojem objekata."
+      }
+    ],
+    "example": "Firma ima pet lokala i želi da svi koriste iste artikle, iste komitente i ista pravila\n        popusta. Podaci se unesu jednom u centralnu bazu, a lokacije koje treba da ih koriste\n        dobijaju ih automatski. Istovremeno, prodaja sa svih lokacija se sinhronizuje u centralu,\n        pa menadžment ima zbirni pregled na jednom mestu.",
+    "images": [],
+    "videoUrl": "",
+    "icon": "network"
+  }
+]
