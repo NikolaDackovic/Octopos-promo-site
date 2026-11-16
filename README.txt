@@ -46,8 +46,6 @@ MODULI (modules.js)
 - demoUrl, videoUrl - dugmad se pojavljuju automatski.
 - Direktan link ka modulu: promo.octopos.rs/#modul-<slug> (npr. #modul-kiosk)
 
-PRAVOPIS
-- U tekstovima koristiti običnu crticu "-", ne dugu crtu.
 
 NAPOMENE
 - Brojevi u hero animaciji (porudžbine, promet) su dekorativni.
